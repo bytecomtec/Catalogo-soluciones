@@ -1,4 +1,4 @@
-const pdfUrl = 'Byte-360-2025.pdf'; 
+const pdfUrl = 'Byte_360.pdf'; 
 const primaryColor = '#28577a'; 
 
 // 1. Estilos optimizados para Web (Desktop y Mobile)
