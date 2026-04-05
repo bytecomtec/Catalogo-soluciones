@@ -1,4 +1,4 @@
-const pdfUrl = 'Brochure-CCTV.pdf'; 
+const pdfUrl = 'Byte-360-2025.pdf'; 
 const primaryColor = '#28577a'; 
 
 // 1. Estilos optimizados para Web (Desktop y Mobile)
